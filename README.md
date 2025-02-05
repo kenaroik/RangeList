@@ -1,5 +1,6 @@
-# RangeList - written by Ingo Karstein
-## (C) 2025 MIT License
+# RangeList 
+written by Ingo Karstein
+(C) 2025 Copyright by Ingo Karstein, MIT License
 
 Here are ranges... They have start, end and value
 
